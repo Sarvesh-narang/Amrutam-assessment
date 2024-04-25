@@ -302,7 +302,6 @@ html, body{
     height: 57px;
     gap: 8px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     margin-top: 2rem;
     margin-bottom: 1rem;
